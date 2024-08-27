@@ -13,4 +13,8 @@ https://docs.google.com/document/d/1yF0Cv2-xXECkpkKoUNxzyRhRg956gU4p7LpOnYlqadY/
 aprendi a fazer o codego de falar bem vindo e repetir meu nome no codepen
 aprendi a fzr uma mini loja no codepen mostrando as frutas e fazendo o cliente celecionar qual ele quer comprar
 
+```js
+const nome = Hile
+console.log(nome)
+```
 
