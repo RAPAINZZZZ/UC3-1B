@@ -49,4 +49,19 @@ aprendi a fzr uma mini loja no codepen mostrando as frutas e fazendo o cliente c
 const nome = Hile
 console.log(nome)
 ```
+recentemente desenvolvi essas
+
+https://codepen.io/hiallemelo/pen/ExBGXLb?editors=0012
+
+https://codepen.io/hiallemelo/pen/eYwVqmv
+
+https://codepen.io/hiallemelo/pen/rNEJXam
+
+https://codepen.io/hiallemelo/pen/xxoYpjQ
+
+https://codepen.io/hiallemelo/pen/OJezNww
+
+https://codepen.io/hiallemelo/pen/YzoEZaq
+
+https://codepen.io/hiallemelo/pen/rNEJXam
 
