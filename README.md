@@ -4,6 +4,8 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
+
+JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc.
  
  string é um tipo de dados usado em programação, usado para representar texto em vez de números. Uma string é uma sequência de caracteres e pode conter letras, números, símbolos e até espaços. Deve ser colocado entre aspas para que seja reconhecido como uma string.
 
